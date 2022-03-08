@@ -1,7 +1,6 @@
 ### Hi there 👋 this Sakib
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<br>
+
 ```python
 class Sakib():
     
@@ -20,6 +19,8 @@ if __name__ == '__main__':
 
 
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<br>
 <h3 align="center">A passionate backend developer from Earth</h3>
 
 <h3 align="left">Connect with me:</h3>
