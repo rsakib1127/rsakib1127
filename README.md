@@ -2,7 +2,21 @@
 
 
 
+```python
+class Sakib():
+    
+  def __init__(self):
+    self.name = "Sakib Rahman";
+    self.username = "rsakib1127";
+    self.location = "Earth, Milkyway";
+    self.web = "https://traideas.com";
+  
+  def __str__(self):
+    return self.name
 
+if __name__ == '__main__':
+    me = Sakib()
+```
 
 
 
